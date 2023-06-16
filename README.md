@@ -6,7 +6,13 @@ Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention
 Citation:
 
 ```latex
-@
+@article{wang2023pdnla,
+  title={Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention},
+  author={Wang, Hanzhang and Zhai, Deming and Liu, Xianming and Jiang, Junjun and Gao, Wen},
+  journal={IEEE Transactions on Image Processing (TIP)},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
 
@@ -20,7 +26,7 @@ Citation:
 
 ## Pretrained Model
 
-We uploaded the [pretrained model](https://drive.google.com/drive/folders/1O2Sjiecos4qN0wRi6fqmyc4XWQNoaulr?usp=sharing) to Google Cloud.
+We uploaded the [pre-trained model](https://drive.google.com/drive/folders/1O2Sjiecos4qN0wRi6fqmyc4XWQNoaulr?usp=sharing) to Google Cloud.
 
 
 ## Test
@@ -32,7 +38,7 @@ python generate_image.py --files1 ./test_image/contents --files2 ./test_image/co
 
 ## Results
 
-We provide the results of some [test images](https://drive.google.com/drive/folders/1qkb668XB4EY7Hc0n3Sb5KBjYVELiON8u?usp=sharing), some from carefully selected grayscale images and corresponding reference color images, and some randomly selected from imagenet. If you want to compare with our method, you can train by yourself, or directly use the pre-trained model to test, or directly select the results from some of the results we provide for comparison.
+We provide the results of some [test images](https://drive.google.com/drive/folders/1qkb668XB4EY7Hc0n3Sb5KBjYVELiON8u?usp=sharing), some from selected grayscale images and corresponding reference color images, and some randomly selected from imagenet. If you want to compare with our method, you can train by yourself, or directly use the pre-trained model to test, or directly select the results from some of the results we provide for comparison.
 
 ## Introduction
 
