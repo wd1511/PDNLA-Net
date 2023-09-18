@@ -1,6 +1,9 @@
 # PDNLA-Net-Pytorch
-Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention
-[[pdf](https://ieeexplore.ieee.org/abstract/document/10183846)]
+
+**Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention** <br>
+*Hanzhang Wang, Deming Zhai, Xianming Liu, Junjun Jiang, Wen Gao* <br>
+IEEE Transactions on Image Processing (TIP), 2023 <br>
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10183846)]
 
 ## Reference
 
