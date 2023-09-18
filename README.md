@@ -7,12 +7,16 @@ Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention
 Citation:
 
 ```latex
-@article{wang2023pdnla,
+@article{,
   title={Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention},
   author={Wang, Hanzhang and Zhai, Deming and Liu, Xianming and Jiang, Junjun and Gao, Wen},
   journal={IEEE Transactions on Image Processing (TIP)},
   year={2023},
   publisher={IEEE}
+  volume={32},
+  number={},
+  pages={4114-4127},
+  doi={10.1109/TIP.2023.3293777}
 }
 ```
 
