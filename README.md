@@ -30,6 +30,13 @@ Citation:
 - torchvision==0.8.2
 - pillow==8.3.1
 
+```
+conda create -n pdnla python=3.6
+conda activate pdnla
+conda install pytorch==1.7.1 torchvision==0.8.2  cudatoolkit=11.0 -c pytorch
+pip install -r requirements.txt
+```
+
 ## Pretrained Model and Results
 
 We uploaded the [pre-trained model](https://drive.google.com/drive/folders/1O2Sjiecos4qN0wRi6fqmyc4XWQNoaulr?usp=sharing) to Google Cloud.
