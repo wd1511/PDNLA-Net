@@ -23,8 +23,6 @@ Citation:
 }
 ```
 
-
-
 ## Requirements
 
 - python==3.6.13
@@ -32,21 +30,17 @@ Citation:
 - torchvision==0.8.2
 - pillow==8.3.1
 
-## Pretrained Model
+## Pretrained Model and Results
 
 We uploaded the [pre-trained model](https://drive.google.com/drive/folders/1O2Sjiecos4qN0wRi6fqmyc4XWQNoaulr?usp=sharing) to Google Cloud.
 
+We provide the results of some [test images](https://drive.google.com/drive/folders/1qkb668XB4EY7Hc0n3Sb5KBjYVELiON8u?usp=sharing), some from selected grayscale images and corresponding reference color images, and some randomly selected from imagenet. If you want to compare with our method, you can train by yourself, or directly use the pre-trained model to test, or directly select the results from some of the results we provide for comparison.
 
 ## Test
 
 ```python
 python generate_image.py --files1 ./test_image/contents --files2 ./test_image/color --ckpt_dir <> --result_dir ./result/
 ```
-
-
-## Results
-
-We provide the results of some [test images](https://drive.google.com/drive/folders/1qkb668XB4EY7Hc0n3Sb5KBjYVELiON8u?usp=sharing), some from selected grayscale images and corresponding reference color images, and some randomly selected from imagenet. If you want to compare with our method, you can train by yourself, or directly use the pre-trained model to test, or directly select the results from some of the results we provide for comparison.
 
 ## Introduction
 
