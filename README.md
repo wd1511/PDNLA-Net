@@ -10,7 +10,7 @@ IEEE Transactions on Image Processing (TIP), 2023 <br>
 Citation:
 
 ```latex
-@article{,
+@article{wang2023pdnlanet,
   title={Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention},
   author={Wang, Hanzhang and Zhai, Deming and Liu, Xianming and Jiang, Junjun and Gao, Wen},
   journal={IEEE Transactions on Image Processing (TIP)},
