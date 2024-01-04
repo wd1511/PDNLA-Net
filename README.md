@@ -16,10 +16,6 @@ Citation:
   journal={IEEE Transactions on Image Processing (TIP)},
   year={2023},
   publisher={IEEE}
-  volume={32},
-  number={},
-  pages={4114-4127},
-  doi={10.1109/TIP.2023.3293777}
 }
 ```
 
