@@ -42,7 +42,7 @@ We provide the results of some [test images](https://drive.google.com/drive/fold
 ## Test
 
 ```python
-python generate_image.py --files1 ./test_image/contents --files2 ./test_image/color --ckpt_dir <> --result_dir ./result/
+python generate_image.py --files1 ./test_image/contents --files2 ./test_image/color --ckpt_dir <ckpt_file_name> --result_dir ./result/
 ```
 
 ## Introduction
